@@ -7,11 +7,11 @@
 
 ## داوطلبین فعلی
 
-+ [سالار](https://twitter.com/sallar)
-+ [ایریکس](https://twitter.com/iiriix_)
-+ [ناصر حسنی](https://twitter.com/snhasani)
-+ [فرزاد](https://twitter.com/euwars)
-+ [علی احسانفر](https://twitter.com/ehsaniaa)
++ [سالار](https://twitter.com/sallar) (مدیریت پروژه، پیاده‌سازی API)
++ [ایریکس](https://twitter.com/iiriix_) (زیرساخت / DevOps)
++ [ناصر حسنی](https://twitter.com/snhasani) (پیاده‌سازی رابط کاربری)
++ [فرزاد](https://twitter.com/euwars) (پیاده‌سازی برنامه iOS)
++ [علی احسانفر](https://twitter.com/ehsaniaa) (طراحی رابط کاربری)
 
 ## نقشه راه
 
