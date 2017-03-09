@@ -2,6 +2,9 @@
 
 # گنجور
 
++ [عضویت در Slack](https://ganjoor.now.sh/)
++ [Trello](https://trello.com/b/7FdzLNkm/ganjoor-2-0)
+
 ## داوطلبین فعلی
 
 + [سالار](https://twitter.com/sallar)
@@ -17,11 +20,6 @@
 + کلاینت موبایل (اندروید / آی‌اواس)
 + طراحی و تجربه کاربری یکپارچه
 
-## گزارش‌های ملاقات تصویری
+## گزارش‌های ملاقات گروه
 
 1. [۷ اسفند ۱۳۹۵](https://github.com/ganjoor/roadmap/wiki/Feb-25th-2017)
-
-## دسترسی
-
-+ [عضویت در Slack](https://ganjoor.now.sh/)
-+ [Trello](https://trello.com/b/7FdzLNkm/ganjoor-2-0)
