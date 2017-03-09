@@ -22,4 +22,4 @@
 
 ## گزارش‌های ملاقات گروه
 
-1. [۷ اسفند ۱۳۹۵](https://github.com/ganjoor/roadmap/wiki/Feb-25th-2017)
+1. [۷ اسفند ۱۳۹۵](https://github.com/ganjoor/roadmap/wiki/Feb-25th-2017---Kickoff)
