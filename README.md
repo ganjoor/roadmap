@@ -13,12 +13,12 @@
 + [فرزاد](https://twitter.com/euwars) (پیاده‌سازی برنامه iOS)
 + [علی احسانفر](https://twitter.com/ehsaniaa) (طراحی رابط کاربری)
 
-## نقشه راه
+## پروژه‌ها
 
-+ ای‌پی‌آی گنجور (REST API)
++ [ای‌پی‌آی گنجور (REST API)](https://github.com/ganjoor/ganjoor-api)
 + کلاینت تحت وب
-+ کلاینت موبایل (اندروید / آی‌اواس)
-+ طراحی و تجربه کاربری یکپارچه
++ [کلاینت iOS](https://github.com/ganjoor/ganjoor-ios)
++ کلاینت Android
 
 ## گزارش‌های ملاقات گروه
 
