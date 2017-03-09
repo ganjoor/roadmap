@@ -12,6 +12,7 @@
 + [ناصر حسنی](https://twitter.com/snhasani) (پیاده‌سازی رابط کاربری)
 + [فرزاد](https://twitter.com/euwars) (پیاده‌سازی برنامه iOS)
 + [علی احسانفر](https://twitter.com/ehsaniaa) (طراحی رابط کاربری)
++ [فرنوش](https://twitter.com/FarnOoSh_) (طراحی تجربه کاربری، گرافیک)
 
 ## پروژه‌ها
 
