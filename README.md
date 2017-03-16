@@ -13,13 +13,14 @@
 + [فرزاد](https://twitter.com/euwars) (پیاده‌سازی برنامه iOS)
 + [علی احسانفر](https://twitter.com/ehsaniaa) (طراحی رابط کاربری)
 + [فرنوش](https://twitter.com/FarnOoSh_) (طراحی تجربه کاربری، گرافیک)
++ [بهروز خضری](https://twitter.com/FarnOoSh_) (پیاده‌سازی برنامه Android)
 
 ## پروژه‌ها
 
 + [ای‌پی‌آی گنجور (REST API)](https://github.com/ganjoor/ganjoor-api)
 + کلاینت تحت وب
-+ [کلاینت iOS](https://github.com/ganjoor/ganjoor-ios)
-+ کلاینت Android
++ [برنامه iOS](https://github.com/ganjoor/ganjoor-ios)
++ [برنامه Android](https://github.com/ganjoor/ganjoor-android)
 
 ## گزارش‌های ملاقات گروه
 
