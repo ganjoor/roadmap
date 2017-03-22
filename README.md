@@ -13,7 +13,7 @@
 + [فرزاد](https://twitter.com/euwars) (پیاده‌سازی برنامه iOS)
 + [علی احسانفر](https://twitter.com/ehsaniaa) (طراحی رابط کاربری)
 + [فرنوش](https://twitter.com/FarnOoSh_) (طراحی تجربه کاربری، گرافیک)
-+ [بهروز خضری](https://twitter.com/FarnOoSh_) (پیاده‌سازی برنامه Android)
++ [بهروز خضری](https://twitter.com/bkhezry) (پیاده‌سازی برنامه Android)
 
 ## پروژه‌ها
 
