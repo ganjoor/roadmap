@@ -8,6 +8,7 @@
 ## داوطلبین فعلی
 
 + [سالار](https://twitter.com/sallar) (مدیریت پروژه، پیاده‌سازی API)
++ [فرزاد](https://twitter.com/euwars) (پیاده‌سازی API)(swift)
 + [ایریکس](https://twitter.com/iiriix_) (زیرساخت / DevOps)
 + [ناصر حسنی](https://twitter.com/snhasani) (پیاده‌سازی رابط کاربری)
 + [فرزاد](https://twitter.com/euwars) (پیاده‌سازی برنامه iOS)
@@ -18,6 +19,7 @@
 ## پروژه‌ها
 
 + [ای‌پی‌آی گنجور (REST API)](https://github.com/ganjoor/ganjoor-api)
++ [ای‌پی‌آی گنجور سوییفت (REST API)](https://github.com/ganjoor/GanjoorAPI-Swift)
 + کلاینت تحت وب
 + [برنامه iOS](https://github.com/ganjoor/ganjoor-ios)
 + [برنامه Android](https://github.com/ganjoor/ganjoor-android)
